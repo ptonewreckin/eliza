@@ -6,9 +6,9 @@
     "types": "dist/index.d.ts",
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
-        "@octokit/rest": "^20.0.2",
+        "@octokit/rest": "^21.0.0",
         "@octokit/types": "^12.6.0",
-        "glob": "^10.3.10",
+        "glob": "^10.5.0",
         "simple-git": "^3.22.0"
     },
     "devDependencies": {
