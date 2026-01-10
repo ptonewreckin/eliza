@@ -11,8 +11,8 @@
         "@uniswap/sdk-core": "^6.0.0",
         "@unruggable_starknet/core": "^0.1.0",
         "starknet": "^6.17.0",
-        "tsup": "^8.3.5",
-        "vitest": "^2.1.4"
+        "tsup": "^8.5.1",
+        "vitest": "^2.1.9"
     },
     "devDependencies": {
         "eslint": "9.13.0",
