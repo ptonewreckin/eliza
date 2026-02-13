@@ -8,7 +8,7 @@
         "@ai16z/eliza": "workspace:*",
         "@octokit/rest": "^20.0.2",
         "@octokit/types": "^12.6.0",
-        "glob": "^10.3.10",
+        "glob": "^12.0.0",
         "simple-git": "^3.22.0"
     },
     "devDependencies": {
